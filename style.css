@@ -1,0 +1,110 @@
+*{
+    background-color: lightblue;
+}
+
+.nova-square-semibold {
+    font-family: "Nova Square", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  .nova-square-regular {
+    font-family: "Nova Square", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .nova-square-normal {
+    font-family: "Nova Square", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .nova-square-bold {
+    font-family: "Nova Square", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+  }
+  .margin-5{
+    margin-left: 50px;
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+}
+
+.contenedor-cards{
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    flex-wrap: wrap; 
+    
+}
+.nova-square-boldnormal {
+  font-family: "Nova Square", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.nova-square-boldnormal-name{
+  font-family: "Nova Square", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 10.8px;
+  margin: .2rem;
+}
+.card{
+  box-shadow: 4px 4px 25px -17px rgba(0,0,0,1);
+}
+.card:hover{
+  transition: box-shadow .4s ease-in-out;
+  box-shadow: 8px 8px 35px -17px rgba(0,0,0,1);
+  transition: transform .4s ease-in-out;
+  transform: scale(1.05);
+}
+.logo{
+  position: absolute;
+  top: 3px;
+  left: 130px;
+}
+.Info{
+  font-size: 25px;
+  }
+
+@media (max-width: 999px) {
+    .logo{
+      position: static;
+    }
+}
+@media (max-width: 850px) {
+  .logo{
+    position: relative;
+    right: 100px;
+  }
+  .Info{
+    font-size: 15px;
+  }
+  .Titulo{
+    font-size: 20px;
+  }
+}
+.Contacto{
+  display: flex;
+  flex-direction: column;
+  width: 450px;
+}
+.ConteinerC{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 350px;
+}
+.Noresize{
+  resize: none;
+}

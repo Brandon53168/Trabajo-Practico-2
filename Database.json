@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "name": "Agumon",
+        "image": "./Imagenes/Agumon_New_Century.png",
+        "Type": "Reptil",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/Agumon",
+        "Descrip": "Un Digimon de Tipo Reptil que ha crecido y llegó a ser capaz de caminar sobre dos patas, tiene la apariencia de un dinosaurio pequeño. Debido a que todavía está en camino a la edad adulta, su poder es bajo, pero como su personalidad es bastante feroz, no entiende el miedo. Ha crecido garras duras y afiladas tanto en sus manos como en sus pies, y demuestra su poder en batalla. También es un ser que presagia la evolución a un gran y poderoso Digimon. Su movimiento especial es escupir aliento de fuego desde su boca para atacar al oponente (Flama Bebé)."
+    },
+    {
+        "id": 2,
+        "name": "Andromon",
+        "image": "./Imagenes/Andromon_New_Century.png",
+        "Type": "Cyborg",
+        "Attribute": "Datos",
+        "descrip": "https://digimon.fandom.com/es/wiki/Andromon",
+        "Descrip": "Un Digimon Cyborg del tipo humano. Posee una fuerza de combate que puede derribar a un Digimon por debajo del nivel Perfecto de un solo golpe. Andromon fue desarrollado como un prototipo para Digimon Cyborg, y el Andromon basado mecánicamente y el cyborg Boltmon basado orgánicamente se fabricaron al mismo tiempo. Esta tecnología fue apropiada para MetalGreymon y Megadramon. Como un prototipo Digimon, no posee voluntad ni emoción, y es fiel a su comportamiento programado. Fue mejorado con un programa basado en los datos obtenidos de los Andromon de la Isla File, y la fuerza de ese programa varía. Su movimiento especial es una cuchilla de energía que dispara desde su módulo de brazo (Espada Espiral)."
+    },
+    {
+        "id": 3,
+        "name": "Angemon",
+        "image": "./Imagenes/Angemon_New_Century.png",
+        "Type": "Angel",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/Angemon",
+        "Descrip": "Un Digimon Ángel con seis alas brillantes, cuyo cuerpo está recubierto de tela blanca pura como para ser divina. Es un ser de virtud perfeccionada, y aunque se llama un Digimon que trae felicidad, cuando se enfrenta al mal no deja de atacar, con extrema compostura, hasta que el oponente es completamente aniquilado. En las innumerables ocasiones en que el Mundo Digital es visitado por una crisis, se dice que desciende para liderar Digimon del mismo género, y Devimon, que fue ganado por el lado oscuro, era originalmente de la misma especie. Su movimiento especial es golpear al oponente con su puño de oro brillante (Nudillo del Cielo)."
+    },
+    {
+        "id": 4,
+        "name": "Angewomon",
+        "image": "./Imagenes/Angewomon_New_Century.png",
+        "Type": "Arcángel",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/Angewomon",
+        "Descrip": "Un Digimon Arcángel con la apariencia de una mujer hermosa. Aunque fue previamente clasificada como un Tipo Ángel, se confirmó que es del Tipo Arcángel debido a la grandeza de sus habilidades. Como su característica, los Ángeles Adultos tienen seis alas, y los Ángeles Perfectos tienen ocho alas. Aunque su personalidad es extremadamente gentil, no puede perdonar aquellos que son retorcidos o malvados, y no detendrá su mano de atacar hasta que el oponente se convierta. Debido a su alma y poder, se dice que es un ser como una diosa del Mundo Digital. El poderoso golpe de rayo de su movimiento especial (Flecha Santa) es también conocido como (Castigo del Cielo), y su rayo de luz mortal (Encanto del Cielo), que está lleno de belleza y afecto, demuestra su mayor eficacia contra los poderes malignos de Digimon."
+    },
+    {
+        "id": 5,
+        "name": "Anomalocarimon",
+        "image": "./Imagenes/Anomalocarimon_New_Century.png",
+        "Type": "Crustaceo Antiguo",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/Anomalocarimon",
+        "Descrip": "Un virus informático infectó los bancos de datos de un laboratorio donde se desarrollan las investigaciones y excavaciones de formas de vida antiguas, y tomó los datos de una forma de vida antigua y evolucionó. Se volvió como la forma de vida que en la antigüedad era la cúspide de la cadena alimenticia, la cual tenía un gran apetito y lo satisfacía con una habilidad capaz de permitirle ver cuál era la comida de mejor calidad. Usando hábilmente los tentáculos que crecen de su cabeza, atrapa al enemigo y lo mata con la hoja afilada que crece de su cola. Cuando el avance de una lucha se vuelve desventajoso, utiliza sus tentáculos afilados para levantar el suelo del fondo marino para ocultar su cuerpo. El ojo radar que sobresale de su cabeza capta al enemigo como una mira de visión nocturna, esperando la oportunidad para darle un giro a la lucha. Su movimiento especial es cruzar sus extremidades delanteras derecha e izquierda y disparar con su (Aguijón Sorpresa)."
+    },
+    {
+        "id": 6,
+        "name": "Bakemon",
+        "image": "./Imagenes/Bakemon_New_Century.png",
+        "Type": "Fantasma",
+        "Attribute": "Virus",
+        "descrip": "https://digimon.fandom.com/es/wiki/Bakemon",
+        "Descrip": "Un Digimon Fantasma cubierto completamente por una tela sobre su cabeza. Como es un ser malvado nacido de la oscuridad, se dice que las computadoras que Bakemon posee tienen sus sistemas destruidos instantáneamente. Todo dentro de la tela está envuelto en misterio, y se rumorea que una parte de la sombra de su verdadera forma se ha convertido en un agujero negro. No le gusta los ataques directos porque su fuerza de combate no es grande. Su movimiento especial (Mano del Infierno) jala al enemigo capturado hasta el infierno. Además, su (Encanto de la Muerte), que lanza un hechizo poderoso, parece traer aniquilación en cuestión de segundos a menos que sean poseedores de un espíritu tenaz."
+    },
+    {
+        "id": 7,
+        "name": "Bakumon",
+        "image": "./Imagenes/Bakumon_New_Century.png",
+        "Type": "Bestia Sagrada",
+        "Attribute": "Vaccione",
+        "descrip": "https://digimon.fandom.com/es/wiki/Bakumon",
+        "Descrip": "Un Digimon que tiene la apariencia del Tapir , se dice que es un animal místico que se alimenta de sueños. Se cree que es un Digimon que se desarrolló a partir de un equipo médico para la detección de ondas cerebrales, y parece que utiliza los datos de los seres humanos en el sueño MOR como alimento. En estudios recientes, se ha demostrado que tiene el poder para purgar particularmente malas pesadillas y virus informáticos malignos. También, ya que tiene la capacidad de volver las pesadillas y los virus capturados a la normalidad, se considera un Digimon santo. Seguramente hay algún tipo de conexión entre esa sagrada habilidad única y el (Anillo Santo), que se lleva en la pata delantera. Su movimiento especial es la liberación de sus pesadillas capturados a la vez, ahogando al rival en el terror (Síndrome de Pesadilla). Esta es la misma técnica de la del Digimon perfecto, Digitamamon, pero su conexión con Bakumon es un misterio."
+    },
+    {
+        "id": 8,
+        "name": "Boltmon",
+        "image": "./Imagenes/Boltmon_New_Century.png",
+        "Type": "Cyborg",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/Boltmon",
+        "Descrip": "Un prototipo Digimon Cyborg construido al mismo tiempo que Andromon. A diferencia de la base mecánica de Andromon, la base orgánica de Boltmon poseía emociones, así como un poder que sobrepasa a Andromon, pero era difícil de controlar y se volvió salvaje, y fue relegado al olvido en la oscuridad. Es un Digimon desafortunado cuya propia existencia fue negada, por lo que deambula en la oscuridad de su dolor. Su movimiento especial es manejar fácilmente su hacha de batalla gigante (Tomahawk Steiner)."
+    },
+    {
+        "id": 9,
+        "name": "Centalmon",
+        "image": "./Imagenes/Centalmon_New_Century.png",
+        "Type": "Hombre Bestia",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/Centalmon",
+        "Descrip": "Un Digimon mitad hombre, mitad bestia. Se cuerpo está protegido por una sustancia dura que llega a la superficie de sus entrañas y su brazo derecho se a fusionado para volverse uno con su arma. Los tubos que se extienden desde la espalda brotan vapor a alta presión, permitiendo que se mueva cerca de la velocidad del sonido, aunque solo por un instante. Tiene un ataque, velocidad y defensiva sobresaliente. Tiene un muy alto orgullo, y no le gusta recibir órdenes o ser restringido. Su movimiento especial es usar el Cañón de Caza, el cual es uno con su brazo derecho. Es casi imposible escapar de este ataque, pero utiliza la mayor parte de su energía, por lo que Centalmon evita pelear mientras sea posible."
+    },
+    {
+        "id": 10,
+        "name": "Cyberdramon",
+        "image": "./Imagenes/Cyberdramon_new_century.jpg",
+        "Type": "Cyborg",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/Cyberdramon",
+        "Descrip": "Un Digimon Cyborg de la especie Hombre Dragón que cubre su cuerpo con una armadura de goma única, con la que puede soportar cualquier ataque. Cuando los Digimon Virus aparecen en la Red, de repente aparece de la nada y los aniquila a todos. Sin embargo, es un guerrero solitario que no está afiliado con el grupo de la justicia, los (Cazadores de Virus), y sus colores verdaderos son un misterio. En cuanto a su armadura de goma única, no sólo tiene una capacidad defensiva excelente, sino también tiene una característica que da rienda suelta a amplificar su capacidad ofensiva. Su movimiento especial está produciendo una onda super-oscilatoria de sus dos brazos que destruye los datos de configuración, borrando por completo cada uno de los oponentes en el espacio circundante (Garra Borradora). Si alguien sufre este ataque, es aniquilado sin dejar atrás ni un trozo único de datos."
+    },
+    {
+        "id": 11,
+        "name": "Clockmon",
+        "image": "./Imagenes/Clockmon_new_century.png",
+        "Type": "Maquina",
+        "Attribute": "Desconocido",
+        "descrip": "https://digimon.fandom.com/es/wiki/Clockmon",
+        "Descrip": "Es el protector de tiempo que rige el temporizador de la computadora. Maneja el (tiempo) y (espacio) de todos los ordenadores y las redes, y si está entre 1900 y 1999, es capaz de avanzar y rebobinar el tiempo. Debido a que posee una capacidad extremadamente peligrosa, siempre mantiene un punto de vista neutral, y no participa en el conflicto entre las vacunas y los virus. Por esta razón, se dice que si alguna vez se inclina hacia uno y otro lado de la balanza, el Mundo Digital se derrumbará. Su Movimiento especial está destruyendo el (tiempo) que fluye a través del cuerpo del oponente (Destructor Chrono). Es imposible que un Digimon cuyo (tiempo) se congeló con este ataque se recupere."
+    },
+    {
+        "id": 12,
+        "name": "Piccolomon",
+        "image": "./Imagenes/Piccolomon_New_Century.png",
+        "Type": "Reptile",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/Picklemon",
+        "Descrip": "Un Digimon Hada que domina el arte de magia. Puede recitar el lenguaje de programación avanzado de otra dimensión, lo que le permite generar milagros con la aparición de la magia. Este Digimon milagroso puede aparecer en cualquier lugar, tiempo y espacio, y aunque su cuerpo es pequeño, puede sellar las capacidades del enemigo con su propia habilidad especial, y después pulverizar al oponente con un poderoso golpe. Con su personalidad amante de la travesura, disfruta de la fabricación de computadoras en el desenfreno con su lanza favorita, (Cuento de Hadas), que siempre tiene en sus manos (aunque no tiene mala intención). Su movimiento especial es una bomba súper-poderosa llena de virus informáticos (Bomba Bit). A pesar de su apariencia, usa ataques aterradores."
+    },
+    {
+        "id": 13,
+        "name": "Palmon",
+        "image": "./Imagenes/Palmon_New_Century.png",
+        "Type": "Planta",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/Palmon",
+        "Descrip": "Tiene una flor tropical que brota de lo alto de su cabeza. Aunque digievoluciona de un Digimon reptil, Tanemon. Palmon ha sido clasificado del tipo plantas extrañas debido a su aspecto y cualidades especiales. Durante el día, ella abre la flor y extiende sus brazos parecidos a hojas para realizar la fotosíntesis. Por lo general entierra sus pies parecidos a raíces bajo la tierra, y aunque con estos absorbe sustancias nutritivas, es también capaz de andar sobre ellos. Cuando está alegre o felíz la flor de su cabeza desprenderá una fragancia dulce y agradable, pero cuando está enfadada o se siente en peligro, libera un hedor asqueroso que hará huír incluso a un Digimon gigante. Su ataque especial es (Hiedra Venenosa), que hace que sus dedos se alarguen como hiedras - llenas de fuerte veneno - se enrosquen alrededor del enemigo paralizando el cuerpo de este. "
+    },
+    {
+        "id": 14,
+        "name": "Monzaemon",
+        "image": "./Imagenes/Monzaemon_crusader.jpg",
+        "Type": "Marioneta",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/Monzaemon",
+        "Descrip": "Un Digimon que está completamente envuelto en el misterio. Desde su aspecto, es un juguete de peluche intacto de un oso, por lo que se rumorea que hay alguien dentro, que consiguió ingresar a través de la boquilla donde se une en su parte trasera. Envuelve el rival en el amor desbordante de este cuerpo lindo (con ojos de miedo), y los hace sentir felices. Su movimiento especial es su (Ataque Amoroso), en el que lanza corazones."
+    },
+    {
+        "id": 15,
+        "name": "Waru Monzaemon",
+        "image": "./Imagenes/WaruMonzaemon_New_Century.png",
+        "Type": "Marioneta",
+        "Attribute": "Virus",
+        "descrip": "https://digimon.fandom.com/es/wiki/WaruMonzaemon",
+        "Descrip": "Este Digimon Títere de cara diabólica está muy lejos de Monzaemon. Se lleva bien con MetalEtemon, y se dice que el juguete de felpa de WaruMonzaemon que lleva en su cintura es algo que WaruMonzaemon le envió. Sin embargo, de forma similar a Monzaemon, su verdadera forma no está clara, sino que es la que asoma de su extraños ojos brillantes desde el interior misterioso. Su personalidad es la maldad en sí, y es traicionero debido a su maldad. Su brazo izquierdo está equipado con el carácter 'Mal' (惡 Waru) y la poderosa (Garra de Oso) de un oso grizzly. Su movimiento especial es dar a todo un estado de ánimo sombrío y deprimente (Ataque Rompecorazones). Si usted sufre este ataque, sus sentimientos se vuelven oscuros y tristes, y pierde por completo su espíritu de lucha."
+    },
+    {
+        "id": 16,
+        "name": "Yukidarumon",
+        "image": "./Imagenes/Yukidarumon_New_Century.png",
+        "Type": "Hielo",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/Yukidarumon",
+        "Descrip": "Un Digimon hecho de nieve helada cuyo cuerpo está cubierto de cristales de hielo y nieve. Contrariamente a su apariencia fría, es de personalidad cálida y gentil. Por su naturaleza a Yukidarumon no le gusta luchar, ya que es un Digimon que calma la mente de quienes vean sus movimientos tranquilos y sus lindos gestos. Entre los Digimon amantes de la lucha, teme en particular a Meramon. Su ataque especial es 'Zettai Reido Punch', que es despedido desde su gran cuerpo."
+    },
+    {
+        "id": 17,
+        "name": "Vamdemon",
+        "image": "./Imagenes/Vamdemon_next0rder_ie.jpg",
+        "Type": "No-Muerto",
+        "Attribute": "Virus",
+        "descrip": "https://digimon.fandom.com/es/wiki/Vamdemon",
+        "Descrip": "Resucitado gracias a las artes oscuras, él es el rey de los Digimon Muertos Vivientes que ha obtenido grandes poderes. Originalmente fue un brutal virus que destruía los datos de computadoras que absorbía, posee la habilidad de revivir esos datos destruidos en malignos virus de computadora. Como el dueño de una extremadamente cruel y astuta personalidad, es un Digimon realmente difícil de destruir. Sin embargo, no puede demostrar estos poderes si no es en la noche, ya que sus poderes se disminuyen a la mitad en el día. Su movimiento especial es la manipulación de un enjambre de murciélagos innumerables, y comenzando un ataque por sorpresa (Ala Espeluznante)."
+    },
+    {
+        "id": 18,
+        "name": "Venom Vamdemon",
+        "image": "./Imagenes/Venom_Vamdemon_New_Century.png",
+        "Type": "Bestia Demoniaca",
+        "Attribute": "Virus",
+        "descrip": "https://digimon.fandom.com/es/wiki/VenomVamdemon",
+        "Descrip": "Un Digimon Bestia Demonio que tiene la mitad inferior de una bestia y una mitad superior con una cáscara como la de un escarabajo, que es la verdadera forma evolucionada del rey de las tinieblas, Vamdemon. Como VenomVamdemon ha desatado su poder oculto, no tiene nada, excepto impulsos omnicidas y destructivos, y Myotismon, que en un principio mantuvo su conducta caballerosa, razón e inteligencia, odia exponer su verdadera forma que es fea. Su movimiento especial es la inyección de un virus de ordenador destructivo dentro del cuerpo del Digimon enemigo, interrumpiendo todo de sus datos de configuración y provocando la terminación de todas sus funciones (Infección de Veneno)."
+    },
+    {
+        "id": 19,
+        "name": "Zudomon",
+        "image": "./Imagenes/Zudomon_New_Century.png",
+        "Type": "Bestia Marina",
+        "Attribute": "Viccina",
+        "descrip": "https://digimon.fandom.com/es/wiki/Zudomon",
+        "Descrip": "Ikkakumon evolucionó más allá, y como un Digimon Poderoso, fue capaz de caminar sobre dos piernas. Además, protege sus músculos bien temperados con protectores, que hizo con la piel y el caparazón que robó de sus oponentes. El cuerno de su cabeza ha sido sustituido por uno que es imposible que vuelva a crecer, por lo que voluntariamente lo procesa en una forma de sierra. Sin embargo, después de todo lo dicho y hecho, su arma más fuerte, que desenterró del hielo antiguo, es su (Martillo de Thor) hecho de Chrondigizoit. Su movimiento especial es golpear al oponente con la onda de choque y las chispas producidas cuando balancea hacia abajo su Martillo de Thor (Chispa de Martillo)."
+    },
+    {
+        "id": 20,
+        "name": "Greymon",
+        "image": "./Imagenes/Greymon_collectors.jpg",
+        "Type": "Dinosaurio",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/Greymon",
+        "Descrip": "Un Digimon dinosaurio cuya piel craneal se ha endurecido de manera que se cubre en un caparazón como de escarabajo rinoceronte. Es un Digimon extremadamente agresivo, con un cuerpo como un arma letal cubierto de garras afiladas y gigantes cuernos. Sin embargo, es muy inteligente, y si puedes domarlo entonces probablemente no haya ningún monstruo tan fuerte. Los Greymon que habitan en el Continente Folder no tienen personalidades frenéticas, y debido a su gran intelecto son capaces de utilizar estilos de lucha que se basan en la cooperación con sus compañeros. Su movimiento especial (Mega Flama) es arrojar flamas de temperatura extremadamente alta desde su boca y reducir todo a cenizas."
+    },
+    {
+        "id": 21,
+        "name": "Metal Greymon",
+        "image": "./Imagenes/Metalgreymon_collectors.jpg",
+        "Type": "Cyborg",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/MetalGreymon_(Vacuna)",
+        "Descrip": "Este Digimon Cyborg ha mecanizado mas de la mitad de su cuerpo. Los MetalGreymon de la Isla File pudieron extender drásticamente sus funciones vitales a través de la remodelación, pero sus porciones de carne no podían resistir y estaban decolorados en azul. Sin embargo, los MetalGreymon perfectos son Digimon Cyborg que tienen éxito en la evolución desde Greymon y sacan un poder mas fuerte. A fin de evolucionar a MetalGreymon, debe abrirse camino y derrotar a formidables oponentes que vienen en contra. Ademas, se dice que el poder ofensivo de MetalGreymon es igual al de una sola ojiva nuclear, y si un Digimon de bajo nivel sufre ese golpe, sera aniquilado sin dejar rastro. Sus movimientos especiales son su (Brazo Tridente) hecho de Chrome Digizoid mejorado, y disparar sus misiles orgánicos (Destructor Giga) desde la escotilla en su pecho.Además, también puede enviar una onda de energía de alta temperatura desde los puertos de disparo en su pecho (Giga Storm)."
+    },
+    {
+        "id": 22,
+        "name": "Metal Greymon (Azul)",
+        "image": "./Imagenes/Metalgreymon_virus.jpg",
+        "Type": "Cyborg",
+        "Attribute": "Virus",
+        "descrip": "https://digimon.fandom.com/es/wiki/(Virus)",
+        "Descrip": "El mayor Digimon Cyborg, que cuenta con más de la mitad del cuerpo mecanizada. Pasando por numerosas batallas, era capaz de sobrevivir mediante la mecanización de su cuerpo. Con el fin de digievolucionar a MetalGreymon, debe tener éxito en derrotar a los enemigos que vienen contra él, uno tras otro. Además, el poder ofensivo de MetalGreymon se dice que es igual a la de una sola ojiva nuclear. Dispara misiles desde la escotilla de parte de su pecho."
+    },
+    {
+        "id": 23,
+        "name": "Unimon",
+        "image": "./Imagenes/Unimon_New_Century.png",
+        "Type": "Bestia Mítica",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/Unimon",
+        "Descrip": "Un Digimon compuesto, que es una Bestia Sagrada legendaria, con un cuerno de unicornio y las alas de Pegaso. Funciona instantáneamente sobre el mundo de la red del equipo con las grandes alas que se han desarrollado a partir de su espalda, y clava el cuerno agudo que se extiende desde su frente a sus enemigos. Aunque los Unimon salvajes son ásperos en la naturaleza, una vez que son domesticados, serán capaces de llevar a sus Tamers sobre su espalda como un caballo. Su ataque especial es (Disparo Santo), en el que escupe una esfera verdosa de su boca"
+    },
+    {
+        "id": 24,
+        "name": "Wizard",
+        "image": "./Imagenes/Wizarmon_New_Century.png",
+        "Type": "Hombre Demonio",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/Wizarmon",
+        "Descrip": "Un Digimon Demonio Humanoide avanzado que vino del Mundo Digital de otra dimensión. En su Mundo Digital nativo (Witchelny) domina la hechicería (lenguaje de programación avanzada) de fuego y la tierra, y aunque su objetivo era convertirse en un gran mago, apareció en el Mundo Digital para entrenar. Aunque tiene una personalidad que le gusta jugar bromas a algunos, tiene otra cara más tímida y trata de no mostrar su rostro al descubierto. Su movimiento especial convoca una nube de tormenta, lo cual hace que desate un intenso rayo (Nube de Trueno)."
+    },
+    {
+        "id": 25,
+        "name": "Whamon",
+        "image": "./Imagenes/Whamon_adult.jpg",
+        "Type": "Mamifero acuatico",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/Whamon(Perfecto)",
+        "Descrip": "Whamon es un Digimon Tipo Acuático, cuyo nombre y diseño se derivan de la ballena. Es un Digimon de gran tamaño, uno de los mayores que existe. No suelen ser violentos y viven plácidamente en el fondo del mar comiendo algas y plancton. Son los protectores del océano. Debido a su magnitud, tiene tantos datos que los ordenadores normales no pueden procesarlos."
+    },
+    {
+        "id": 26,
+        "name": "Mokumon",
+        "image": "./Imagenes/Mokumon_New_Century.png",
+        "Type": "Humo",
+        "Attribute": "Free",
+        "descrip": "https://digimon.fandom.com/es/wiki/Mokumon",
+        "Descrip": "Se trata de un Digimon bebé que rodea su cuerpo con un humo vaporoso. El núcleo del ordenador (DigiCore) que todos los Digimon tienen en el centro de su cuerpo está desnudo en este Digimon único, y con el fin de proteger este DigiCore, se esconde dentro de una gran cantidad de humo. Porque el DigiCore Mokumon está desnudo, su cuerpo está envuelto en humo mientras se quema y es un Digimon con una inusual forma de vida. Dispersa el humo que sale de su cuerpo por todas partes, entonces aprovecha la oportunidad para huir."
+    },
+    {
+        "id": 27,
+        "name": "Kabuterimon",
+        "image": "./Imagenes/Kabuterimon_newcentury.png",
+        "Type": "Insecto",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/Kabuterimon",
+        "Descrip": "Entre Digimon recién descubiertos, es un Digimon insecto bastante único. Los detalles de cómo se convirtió en un tipo de insecto no están claros, pero tiene tanto el poder y la fuerza que poseen las hormigas a relación con su peso y la capacidad defensiva impecable de un escarabajo. Su personalidad es la de un insecto en sí, que sólo posee el instinto para la supervivencia, y, como consecuencia, no tiene ninguna inteligencia o algo similar. Se abalanza sobre Digimon de tipo virus hostiles sin piedad. Su cabeza se ha metalizado, y cuenta con la defensa de un muro de hierro. Su ataque o movimiento especial es Mega Blaster."
+    },
+    {
+        "id": 28,
+        "name": "Atlur Kabuterimon",
+        "image": "./Imagenes/Atlur_Kabuterimon_New_Century.png",
+        "Type": "Insecto",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/AtlurKabuterimon_(Rojo)",
+        "Descrip": "Una evolución de Kabuterimon que fue descubierta dentro de la región tropical del Área Net. Es casi 1.5 veces el tamaño de Kabuterimon, y es bastante grande entre los Digimon Insectos. Mientras que sus habilidades de vuelo han retrocedido hasta cierto punto, la fuerza de su cuerno, que es su arma principal, se ha disparado. Además, han aparecido tejidos musculares en la base de sus extremidades anteriores, por lo que también ha mejorado su capacidad de agarre. Se ha observado que su comportamiento, con la excepción de sus instintos de supervivencia, consiste en proteger a los débiles, e incluso hay momentos en que su comportamiento ha sido caballeroso. Su movimiento especial es apuñalar al oponente con su gigantesco cuerno (Cuerno Desructor)."
+    },
+    {
+        "id": 29,
+        "name": "Megadramon",
+        "image": "./Imagenes/Megadramon_New_Century.png",
+        "Type": "Cyborg",
+        "Attribute": "Virus",
+        "descrip": "https://digimon.fandom.com/es/wiki/Megadramon",
+        "Descrip": "Un Digimon dragón oscuro que se dice que cuenta con el mayor y más perverso poder entre los Digimon Cyborg de tipo dragón del nivel perfecto. Como Digimon que fue remodelado artificialmente por alguien, fue programado para destruir todo. Sin duda se puede decir que su existencia es el epítome un virus informático. Puede penetrar fácilmente redes informáticas protegidas por una gran seguridad, y puede muy fácilmente destruir y luego formatear completamente el ordenador anfitrión. Sus movimientos especiales son disparar innumerables misiles orgánicos de sus dos brazos (Ataque Genocida), y un ataque que es capaz de cortar cualquier material en pedazos (Cortadora Definitiva)."
+    },
+    {
+        "id": 30,
+        "name": "Mugendramon",
+        "image": "./Imagenes/Mugendramon_New_Century.png",
+        "Type": "Machine",
+        "Attribute": "Desconocido",
+        "descrip": "https://digimon.fandom.com/es/wiki/Mugedramon",
+        "Descrip": "Con todo su cuerpo en 100% de metal completo, es el Digimon más fuerte y pesado del Mundo Digital. Fue construido por la síntesis de los componentes de muchos Digimon Cyborg, y se piensa que todos los Digimon Cyborg producidos hasta ahora no eran más que prototipos para la realización de Mugendramon. Su poder está en un nivel que abruma a otros Digimon, y posee un intelecto que cuenta con rendimiento incomparable, pero es un Digimon puramente mecánico que no comparte su propia voluntad. En cambio, alguien plantó un programa que contiene malas intenciones en el DigiCore en el centro de su cuerpo, y Mugendramon se suministra con el poder infinito de ese DigiCore lleno de malicia. Su movimiento especial es ondas de energía de clase superacorazadas disparadas desde sus dos cañones (Cañón ∞)."
+    },
+    {
+        "id": 31,
+        "name": "Shellmon",
+        "image": "./Imagenes/Shellmon_New_Century.png",
+        "Type": "Molusco",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/Shellmon",
+        "Descrip": "Un Digimon ermitaño parecido a un cangrejo que vive en los márgenes del (Océano Net). Aunque tiene una apariencia de tortuga cuando se asienta dentro de su caparazón, para todos los efectos tiene un cuerpo blando como un molusco. Debido a que su cuerpo se desarrolla rápidamente a medida que crece, reemplaza su hogar cada vez hasta que alcanza el tamaño de una pequeña montaña. Además, en la medida que su cuerpo puede caber completamente, tiene la costumbre de asentarse por completo. Ya que tiene poca inteligencia y una personalidad beligerante, debe tener cuidado si se encuentra con un Shellmon. Su Movimiento Especial es disparar líquido a alta presión (Presión Hidráulica). "
+    },
+    {
+        "id": 32,
+        "name": "Saber Leomon",
+        "image": "./Imagenes/Saber_Leomon_New_Century.png",
+        "Type": "Bestia Antigua",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/Saberleomon",
+        "Descrip": "Un Digimon Bestia Antigua que se dice que posee la habilidad de la velocidad Mach. Sin embargo, los detalles están envueltos en el misterio, aunque de acuerdo a una teoría es un Leomon que ha cambiado a la forma de una bestia. Posee la habilidad de moverse a velocidad Mach, y con esa velocidad puede esquivar ataques, sin importar que rápidos sean. Sus dos colmillos súper desarrollados y sus garras afiladas poseen un gran poder destructivo, y es conocido como el Digimon definitivo. Su técnica especial es endurecer los incontables (cabellos) de su melena y embestir al oponente (Flechas Infinitas). Debido a que sus cabellos están envenenados, aquellos que sufran este ataque tendrán sus cuerpos completamente paralizados. Además, su (Garra Trituradora), en la que usa sus gigantescas garras, es una terrible técnica que parte a sus oponentes en pedazos."
+    },
+    {
+        "id": 33,
+        "name": "Tentomon",
+        "image": "./Imagenes/Tentomon_new_Century.png",
+        "Type": "Insecto",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/Tentomon",
+        "Descrip": "El tipo original de Digimon Insecto, que aunque tiene un caparazón muy duro, aun tiene baja agresividad. Tiene una garra dura en cada una de sus patas delanteras, y cuatro en cada uno de sus medianas y patas traseras, y, en particular, las patas medianas son capaces de captar hábilmente objetos al igual que una mano humana. Mientras que muchos otros tipos de insectos en su mismo nivel de evolución solo poseen el espíritu de lucha, Tentomon aún conserva sus sentimientos naturalmente amigables y muestra su manera despreocupada de la vida haciendo cosas como olfatear el aroma de las flores y dormitar a la sombra de un árbol. Su movimiento especial, que posee por si acaso, es lanzando electricidad estática que se amplifica con sus alas (Mini Trueno)."
+    },
+    {
+        "id": 34,
+        "name": "Rosemon",
+        "image": "./Imagenes/Rosemon_New_Century.png",
+        "Type": "Hada",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/Rosemon",
+        "Descrip": "Un Digimon Hada que tiene la apariencia de una rosa, que es llamada la Reina de las Flores. Tiene la forma de una mujer hermosa y desea permanecer bella para siempre. Su personalidad es más o menos así, y aunque es excesivamente consciente de tales cosas, su verdadera fuerza no se compara desfavorablemente con los otros Definitivos. Además, lleva en el pecho la (Tiferet), una joya que está grabada con el símbolo del amor y la belleza. Se dice que este Tiferet que posee le promete belleza y poder eternos. Su movimiento especial es domar a los Digimon, no importa cuán frenéticos, con un látigo espinado cargado con electricidad (Látigo de Espinas). Se dice que aquellos que sufren de esta técnica se convierten en esclavos de Rosemon, en cuerpo y alma. Además, puede derribar al oponente usando el látigo como un estoque (Estoque de Rosas). Adicionalmente, en cuanto a los Digimon que sufren de la suprema Tentación Prohibida de Rosemon, sus datos se destruyen hermosamente en una lluvia de innumerables pétalos de rosa."
+    },
+    {
+        "id": 35,
+        "name": "Lilimon",
+        "image": "./Imagenes/Lilimon_New_Century.png",
+        "Type": "Hada",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/Lilimon",
+        "Descrip": "Un Hada Digimon nacida de los bellos pétalos de flores. A pesar de que tiene un aspecto como una niña humana, es un Digimon Perfecto con un poder insondable en su interior. Debido a su personalidad caprichosa, se dice que va a abrir su corazón a una chica humana con un temperamento similar. Es necesario un gran esfuerzo para ganarle, puesto que es difícil intuir los poderes enigmáticos que este Digimon posee. Además, tiende a extender amablemente su mano a las cosas pequeñas o débiles. Puede volar en el aire con las cuatro hojas a modo de alas que crecen de su espalda, y se dice que después de que Lillymon pasa volando, deja una estela con el refrescante aroma de una brisa. Su movimiento especial consiste en colocar sus brazos hacia adelante, haciendo una pistola de pétalos de sus muñecas, y disparando un proyectil de energía (Cañón de Flores)."
+    },
+    {
+        "id": 36,
+        "name": "Togemon",
+        "image": "./Imagenes/Togemon_New_Century.png",
+        "Type": "Planta",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/Togemon",
+        "Descrip": "Un Digimon Planta que tiene la apariencia de un cactus gigante. Es capaz de almacenar los datos de nutrientes dentro de su cuerpo, e incluso puede sobrevivir durante un largo tiempo en las zonas desérticas vacías. Por lo general, no se puede entender en absoluto lo que está pensando, incluso si tratar de discernir a partir de su expresión facial, ya que pasa la mayor parte del día mirando hacia el espacio. Sin embargo, una vez que Togemon se enoja, esa expresión cambia por completo, comienza a ser violento, y se vuelve incapaz de sentar la cabeza. Su movimiento especial es endurecer las espinas en los extremos de sus brazos y atacar bang bang con ellos (Chikuchiku bang-bang)."
+    },
+    {
+        "id": 37,
+        "name": "Triceramon",
+        "image": "./Imagenes/Triceramon_New_Century.png",
+        "Type": "Ceratopsia",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/Triceramon",
+        "Descrip": "Un Digimon Ceratopsia bípedo que tiene la apariencia del Triceratops, teniendo un poder ofensivo que compite por el primer o el segundo lugar entre los herbívoros del tipo dinosaurio. La robustez de su piel es de primera clase entre los Digimon biológicos. Al igual que su piel, los dos cuernos que crecen desde su frente son súper resistentes y son mucho más duros que los de Monochromon. Tiene una personalidad fundamentalmente gentil. Sin embargo, sus ataques de carga tienen el poder ofensivo para destruir hasta los Digimon de especies minerales de cuerpos robustos, aunque no lo adivinarías por sus movimientos normalmente lentos. Su movimiento especial es cargar hacia el oponente con los dos cuernos en su frente y el cuerno en su hocico (Ataque de Tres Cuernos)"
+    },
+    {
+        "id": 38,
+        "name": "Monochromon",
+        "image": "./Imagenes/Monochromon_New_Century.png",
+        "Type": "Ceratopsia",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/Monochromon",
+        "Descrip": "Un Digimon Anquilosaurio del que ha surgido un cuerno de rinoceronte en su hocico. Su enorme cuerno se vuelve lo suficientemente grande como para medir la mitad de la longitud de su cuerpo mientras e crece. La sustancia dura que cubre partes de su cuerno y la mitad de su cuerpo posee una dureza de la misma calidad que el diamante, y se dice que no hay nada que no pueda ser penetrado por este cuerno. Se puede decir que Monochromon es un Digimon que sobresale tanto en ataque como en defensa. Como es herbívoro, tiene una personalidad relativamente dócil, pero una vez que se enfada, continuará desatando terroríficos contraataques con su cuerpo como si fuera un pesado tanque. Su Movimiento Especial es un poderoso disparo de llama (Volcano Strike)."
+    },
+    {
+        "id": 39,
+        "name": "Mammon",
+        "image": "./Imagenes/Mammon_New_Century.png",
+        "Type": "Bestia Antigua",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/Mammon",
+        "Descrip": "El hecho de que este Digimon antiguo existió hace mucho tiempo se hizo evidente a partir de una multitud de pruebas. Debido al calentamiento del Mundo Digital, sus super-comprimidos datos se ampliaron, y se abrieron camino desde el Área de Nieve una vez cubierta de hielo helado. Su cuerpo está cubierto de pelo denso, y aunque se trata de un antiguo Digimon que posee un inmenso poder, también tiene un punto débil al calor extremo. El escudo grabado en la máscara que cubre su rostro es un cristal súper-antiguo de la sabiduría, por lo que posee el poder de la clarividencia de modo que es capaz de ver a lo lejos, y sus grandes orejas, incluso pueden identificar los sonidos de los lugares lejanos. Sus movimientos especiales son atravesar al oponente con sus dos colmillos alargados (Golpe de Colmillo), y arrojar aliento frío de su largo tronco en una ráfaga, congelando instantáneamente a cualquier oponente (Aliento de Tundra)."
+    },
+    {
+        "id": 40,
+        "name": "Tyranomon",
+        "image": "./Imagenes/Tyranomon_New_Century.png",
+        "Type": "Dinosaurio",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/Tyranomon",
+        "Descrip": "Un Digimon que se asemeja a un dinosaurio antiguo que existió en el mundo prehistórico. Barre todo con sus dos brazos bien desarrollados y su cola gigantesca. Es extremadamente fácil de domesticar debido a su inteligencia y personalidad dócil. Por esa razón, es muy apreciado por los Tamers principiantes, y a menudo se cría con cuidado. Probablemente se podría decir que es una figura representativa del Digimon más básico. Su movimiento especial es escupir llamas carmesíes profundas del mismo color que su cuerpo (Fire Breath)."
+    },
+    {
+        "id": 41,
+        "name": "Master Tyranomon",
+        "image": "./Imagenes/Mastertyranomon_collectors.png",
+        "Type": "Dinosaurio",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/Mastertyranomon",
+        "Descrip": "Un Dinosaurio Digimon que evolucionó de un Tyranomon que superó muchas batallas feroces. Las cicatrices que cubren su cuerpo actúan como prueba de las numerosas batallas que ha sobrevivido. Asume un papel de maestro, entrenando a sus seguidores de Tyranomon y criándolos para convertirse en guerreros de pleno derecho. Su movimiento especial está arrasando al enemigo con las llamas de alta temperatura que respira de su boca (Master Fire)."
+    },
+    {
+        "id": 42,
+        "name": "Metal Tyranomon",
+        "image": "./Imagenes/Metaltyranomon.jpg",
+        "Type": "Machine",
+        "Attribute": "Virus",
+        "descrip": "https://digimon.fandom.com/es/wiki/Metaltyranomon",
+        "Descrip": "Un Digimon Cyborg que remodeló su cuerpo para adquirir poderes más poderosos. Después de que Megadramon fue remodelado para el combate antiaéreo, MetalTyranomon fue remodelado como un Digimon interceptor en tierra. Su cuerpo reforzado desvía todos los ataques, y posee el aterrador poder ofensivo para atravesar armaduras con su firme mandíbula, sin importar lo duro que pueda ser. Sus movimientos especiales son un misil disparado desde su brazo derecho (Giga Destroyer II), y un proyectil de energía disparado de su brazo izquierdo (Nuclear Laser)"
+    },
+    {
+        "id": 43,
+        "name": "Mamemon",
+        "image": "./Imagenes/Mamemon.jpg",
+        "Type": "Mutante",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/Mamemon",
+        "Descrip": "Un Digimon Mutante que se desarrolló en un ambiente hostil. Contrariamente a su aspecto lindo, oculta un poder terriblemente destructivo. Con la excepción de un Digimon, es quizás la clase más poderosa. Las grandes manos unidas a su pequeño cuerpo son capaces de transformarse en poderosas bombas desprendiéndose. Su apodo es el (Bombardero Sonriente)"
+    },
+    {
+        "id": 44,
+        "name": "Marin Angemon",
+        "image": "./Imagenes/Marin_Angemon_new_century.png",
+        "Type": "Hada",
+        "Attribute": "Vaccine",
+        "descrip": "https://digimon.fandom.com/es/wiki/MarinAngemon",
+        "Descrip": "Como Digimon Hada que habita en el Océano Net, su figura rara vez se pueden ver. A pesar de que posee el nombre de (Angemon), por lo que al ecosistema se refiere, las especies Angemon es en realidad una familia diferente. El anillo que MarineAngemon lleva alrededor del cuello se llama Anillo Santo, y se cree que existe alguna conexión entre los Digimon Santos y Digimon que usan el anillo como Tailmon o Angewomon. Las letras grabadas no se entienden claramente en la actualidad. Aunque fundamentalmente le disgusta combatir, su movimiento especial (Océano de Amor) hace que todos sus oponentes pierdan su espíritu de lucha, lo que resulta en el logro de la victoria."
+    },
+    {
+        "id": 45,
+        "name": "Knightmon",
+        "image": "./Imagenes/Knightmon_New_Century.png",
+        "Type": "Guerrero",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/Knightmon",
+        "Descrip": "Un Digimon Guerrero de complexión enorme que está vestido con una armadura súper pesada de Chrome Digizoid. Posee la fuerza suficiente para incluso cargar su espadón favorito mientras porta esa armadura. De acuerdo a una teoría, porta esa armadura en su cuerpo para limitar su gran e incontrolable poder. Además, Knightmon es un Digimon que existe para obedecer ciegamente a su amo, y tiene una personalidad profundamente leal. Por esa razón, se preocupa acerca de convertirse en bueno o malvado, dependiendo del atributo de su amo, para poder seguir esas convicciones. Blande su espadón como un berserker, cortando todo en dos de solo un espadazo (Espada Versátil)."
+    },
+    {
+        "id": 46,
+        "name": "Kunemon",
+        "image": "./Imagenes/Kunemon_survive.png",
+        "Type": "Larva",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/Kunemon",
+        "Descrip": "Un Digimon Larva que tiene patrones de rayos por todo su cuerpo. Como Digimon insectoides jóvenes son seres muy especiales entre otros Digimon. Su forma evolucionada aún no está clara, pero parece evidente que desde el descubrimiento de Kunemon que existen Digimon Insectos distintos de Kabuterimon. Aunque no se sabe si los patrones de rayo en la parte de su cara pueden considerarse órganos equivalentes a los ojos, porque cambian su forma en conformidad con sus emociones, se dice que probablemente son ojos. Su personalidad es bastante maliciosa. Su movimiento especial es un hilo eléctricamente cargado de seda escupido desde su duro pico (Hilo Eléctrico). Si se enredan en este hilo pueden ser noqueados por el intenso choque eléctrico."
+    },
+    {
+        "id": 47,
+        "name": "Were Garurumon",
+        "image": "./Imagenes/Were_Garurumon_New_Century.png",
+        "Type": "Hombre Bestia",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/WereGarurumon",
+        "Descrip": "Un Digimon Bestia Humanoide que evolucionó de Garurumon y adquirió la abilidad para caminar sobre dos. Su velocidad se disminuyó como resultado de volverse bípedo, pero se convirtió en un Digimon de tipo comando con un poder ofensivo y defensivo más fuerte, y desarrolló una naturaleza táctica. Sus técnicas de patadas, que desata usando la fuerza de la pierna que retuvo cuando era Garurumon, son bastante fuertes, y su habilidad para saltar compite por el primer o segundo lugar entre los Digimon. Además, es ferozmente leal y tiene una naturaleza confiable, ejecutando fielmente cualquier tarea ordenada por su maestro. Su movimiento especial es cortar al oponente en pedazos con las garras afiladas en sus dos manos (Kaiser Nail)."
+    },
+    {
+        "id": 48,
+        "name": "Tonosama Gekomon",
+        "image": "./Imagenes/Tonosama_Gekomon_New_Century.png",
+        "Type": "Anfibio",
+        "Attribute": "Virus",
+        "descrip": "https://digimon.fandom.com/es/wiki/TonosamaGekomon",
+        "Descrip": "Una versión mejorada de Gekomon con una antena que se asemeja al chonmage de un señor feudal. Se dice que la actualización ocurrió por primera vez en un sistema de calificación de karaoke. Toca una melodía de los dos cuernos que se extienden desde sus hombros, y su voz de canto, que está varias octavas por debajo de la de Gekomon, imparte la sensación de un aire señorial de superioridad (?). Su movimiento especial hace que los datos de configuración del enemigo vibren usando las ondas de frecuencia ultrabaja de sus vocalizaciones y cuernos, destruyéndolos ( Kobushi Tone). Sin embargo, dependiendo del oponente, su condición física puede terminar mejorando debido a la onda de baja frecuencia."
+    },
+    {
+        "id": 49,
+        "name": "Seadramon",
+        "image": "./Imagenes/Seadramon_New_Century.png",
+        "Type": "Acuatico",
+        "Attribute": "Data",
+        "descrip": "https://digimon.fandom.com/es/wiki/Seadramon",
+        "Descrip": "Un Digimon Acuático que tiene un cuerpo largo, como el de las serpientes. Utilizando este largo cuerpo, se envuelve alrededor del atacante enemigo y lo aprieta hasta que éste deja de respirar. No es inteligente por naturaleza, pero nada en el Océano Net por instinto. Su Movimiento Especial es (Ice Arrow), en el cual se exhala por la boca un soplo de aire al cero absoluto, congelando instantáneamente el agua y disparándolo contra el enemigo."
+    },
+    {
+        "id": 50,
+        "name": "Metal Seadramon",
+        "image": "./Imagenes/Metal_Seadramon_New_Century.png",
+        "Type": "Cyborg",
+        "Attribute": "Virus",
+        "descrip": "https://digimon.fandom.com/es/wiki/MetalSeadramon",
+        "Descrip": "Es la forma final de las especies Seadramon, cuyo cuerpo está cubierto del más fuerte metal, la aleación Chrome Digizoid. Este cuerpo de metal refleja cada ataque. Además, tiene la mayor velocidad de movimiento entre los Digimon Acuáticos. MetalSeadramon fue remodelado como un Digimon para uso en la interceptación en el mar. A través de este, que se completó como un Digimon para su uso en tierra, mar y la interceptación en el cielo. Su movimiento especial es un cañón de energía que disparó desde la punta de su nariz (Corriente Definitiva). El nombre formal del Chrome Digizoid utilizado por los Digimon de metal de la misma especie se llama (Aleación Chrome Digizoid de Organismo Híbrido) y se abrevia como (CHO-Aleación). La Aleación Chrome Digizoid es un material intermedio entre el metal Chrome Digizoid y el tejido vivo, por lo que es capaz de integrarse con el tejido vivo, y que posee tanto la firmeza superdura del metal Chrome Digizoid así como la suavidad de los tejidos vivos."
+    }
+]
